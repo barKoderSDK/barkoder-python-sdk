@@ -1,0 +1,6 @@
+{
+  "app_name": "barkoder-demo",
+  "license_key": "YOUR_LICENSE_KEY_HERE",
+  "description": "Configuration file for Barkoder sample application",
+  "version": "1.6.0.2"
+}
