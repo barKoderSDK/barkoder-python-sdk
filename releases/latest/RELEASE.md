@@ -1,6 +1,6 @@
 # Barkoder Python SDK v1.6.0.2
 
-**Release Date**: 2025-08-02 00:30:01 UTC
+**Release Date**: 2025-08-02 00:47:42 UTC
 
 ## Download
 
