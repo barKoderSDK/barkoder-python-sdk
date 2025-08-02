@@ -2,7 +2,7 @@
 
 High-performance barcode scanning SDK for Python with support for 40+ barcode formats.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Download
 
@@ -23,7 +23,7 @@ Choose your system architecture:
    python3 run.py
    ```
 
-## 📦 What's Included
+## What's Included
 
 Each package contains:
 - `Barkoder/` - Python package with compiled SDK
@@ -39,7 +39,7 @@ Each package contains:
 - **Architecture**: x86_64 or ARM64
 - **Dependencies**: libcurl (system library)
 
-## 📖 Usage Example
+## Usage Example
 
 ```python
 from Barkoder import BarkoderSDK
@@ -79,7 +79,7 @@ Code25, Interleaved 2/5, ITF-14, IATA 2/5, Matrix 2/5, Datalogic 2/5, COOP 2/5, 
 ### Postal Codes
 DataBar (RSS), Australian Post, Royal Mail, KIX, Japanese Post, PostNet, Planet, IMB
 
-## 📋 API Reference
+## API Reference
 
 ### Core Functions
 - `BarkoderSDK.initialize(license_key)` - Initialize SDK
@@ -112,9 +112,9 @@ This SDK contains proprietary components. A valid license key is required for op
 
 ## 📞 Support
 
-- **Documentation**: [docs.barkoder.com](https://docs.barkoder.com)
+- **Documentation**: [barkoder.com/docs](https://barkoder.com/docs)
 - **Contact**: [barkoder.com/contact](https://barkoder.com/contact)
-- **Issues**: [Report issues](../../issues)
+- **Issues**: [Report issues](https://barkoder.com/issues)
 
 ## 📜 Version History
 
