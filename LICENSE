@@ -1,0 +1,47 @@
+BARKODER SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") is entered into between Barkoder
+and the user ("Licensee") of the Barkoder Python SDK ("Software").
+
+IMPORTANT: BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU AGREE TO BE
+BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO
+NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
+
+1. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement, Barkoder grants to
+Licensee a non-exclusive, non-transferable license to use the Software solely
+for the purposes specified in the applicable license key.
+
+2. RESTRICTIONS
+Licensee may not:
+- Reverse engineer, decompile, or disassemble the Software
+- Modify, adapt, or create derivative works of the Software
+- Distribute, sublicense, or transfer the Software to third parties
+- Remove or alter any proprietary notices or labels on the Software
+
+3. LICENSE KEY REQUIRED
+Use of the Software requires a valid license key obtained from Barkoder.
+The license key determines the permitted use scope and duration.
+
+4. PROPRIETARY RIGHTS
+The Software contains proprietary and confidential information of Barkoder.
+All rights not expressly granted are reserved by Barkoder.
+
+5. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL BARKODER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THE SOFTWARE.
+
+7. TERMINATION
+This Agreement is effective until terminated. It will terminate automatically
+if Licensee fails to comply with any term of this Agreement.
+
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws
+of the jurisdiction where Barkoder is located.
+
+For licensing inquiries, contact: https://barkoder.com/contact
